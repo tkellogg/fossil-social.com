@@ -47,7 +47,7 @@ a.navbar-item.is-active {
 
     &::before {
         filter: blur(0.15rem);
-        background-image: url(https://cdn.pixabay.com/photo/2024/01/31/19/25/sunset-8544672_960_720.jpg); 
+        background-image: url(/assets/images/sunset-8544672_1920.jpg); 
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -86,7 +86,7 @@ a.navbar-item.is-active {
 
 #how {
     /* filter: blur(0.15rem); */
-    background-image: url(https://cdn.pixabay.com/photo/2016/10/14/19/21/canyon-1740973_960_720.jpg); 
+    background-image: url(/assets/images/canyon-1740973_1920.jpg); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
