@@ -47,7 +47,7 @@ a.navbar-item.is-active {
 
     &::before {
         filter: blur(0.15rem);
-        background-image: url({{site.heroimage}});
+        background-image: url(https://cdn.pixabay.com/photo/2024/01/31/19/25/sunset-8544672_960_720.jpg); 
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -68,7 +68,7 @@ a.navbar-item.is-active {
     letter-spacing: 0.25rem;
 }
 
-#about {
+#why {
     .image {
         max-width: 20vmax;
         margin: auto;
@@ -82,6 +82,15 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+}
+
+#how {
+    /* filter: blur(0.15rem); */
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/14/19/21/canyon-1740973_960_720.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 #contact {
