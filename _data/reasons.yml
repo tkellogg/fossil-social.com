@@ -6,11 +6,11 @@
   link:
   image: https://cdn.pixabay.com/photo/2017/08/01/20/52/people-2567915_960_720.jpg
   description: Change your behavior by focusing on what matters most
-- name: "How It Works: The Algorithm"
-  link:
+- name: "Mastodon: The Social Network"
+  link: /docs/mastodon
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: AI is used to sort posts by similar topics. It's like headlines for your feed.
+  description: Create or import your Mastodon account to view your timeline.
 - name: Open Source & Transparent
-  link:
+  link: /docs/open-source
   image: https://cdn.pixabay.com/photo/2024/02/27/00/13/heliconia-8599119_960_720.jpg
   description: Fossil is developed in the open and anyone is free to see and contribute to the code.
