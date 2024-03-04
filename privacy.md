@@ -17,6 +17,7 @@ We collect information primarily to provide and improve our service. The types o
 
 * Cookies: We use cookies to maintain an HTTP session for our application, eliminating the need to re-authenticate during your session.
 * Application and Usage Logs: For the purpose of improving our service, we log certain usage data and application performance metrics. These logs help us identify issues and enhance user experience.
+* Identity: When you sign in with Google, LinkedIn, etc. we store only the minimum information such that we can identify you across devices. This information is not shared with anyone else.
 
 ## 2. Use of Information
 
