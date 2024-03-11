@@ -2,6 +2,19 @@
     <div class="hero-body">
         <div class="container">
             <div class="columns">
+                <div class="columns is-centered is-multiline is-mobile"
+                     style="
+                     background-color: #fff;
+                     padding: 2rem;
+                     border-radius: 1rem;
+                     opacity: 0.6;
+                     ">
+                    <p>
+                        Fossil optimizes for you by organizing posts by topic, so you can
+                        dive into the interesting content and skip the rest.
+                    </p>
+                </div>
+                {% comment %}
                 <div class="columns is-centered is-multiline is-mobile">
                   {% for project in site.data.reasons %}
                     <div class="column has-text-centered is-paddingless is-one-third-widescreen is-one-third-desktop is-one-fifth-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch"
@@ -19,9 +32,19 @@
                     </div>
                   {% endfor %}
                 </div>
+                {% endcomment %}
 
             </div>
-                <br/>
+            <br/>
+            <div class="columns">
+                <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                    <div class="container columns is-centered">
+                        <img src="/assets/images/blog/fossil-index-preview.jpeg" 
+                             alt="Screenshot of a social media application interface showing various categories such as Global News Headlines, Technology and Society Trends, and Nature Walks and Photography. A highlighted post from the Nature Walks and Photography category features a user named @concretedog who shares an image of a tranquil woodland path in Bedgelert, North Wales, mentioning an early morning walk with hashtags #SilentSunday and #mosstodon. The interface includes navigational elements and indicates private status at the bottom."
+                             style=""
+                             />
+                    </div>
+                </div>
                 <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
                     <div class="container columns is-centered">
                         <div>
@@ -36,5 +59,6 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
 </section>

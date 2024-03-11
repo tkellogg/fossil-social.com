@@ -11,7 +11,7 @@ title: fossil
 # Description of the Site
 description: Social media optimized for you
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/icon-dark.svg
 # Keywords of the Site
 site-keywords: Social Media, Mastodon, Fediverse, Time Management
 # URL for the Image of custom Favicon
@@ -24,13 +24,13 @@ heroimage: /assets/images/540123_1920.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+# email: thedevslot@gmail.com
+# facebook_username: thedevslot
+# twitter_username: thedevslot
+# instagram_username: thedevslot
+# linkedin_username: thedevslot
+github_username:  kelloggt
+# youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
 dribbble_username: /
@@ -40,16 +40,16 @@ spotify_username: /
 google-analytics: G-H632KPLKBM
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: ""
 
 # Name of the Author
-author-name: Kellogg Software, LLC
+author-name: Tim Kellogg
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: CEO and founder of Kellogg Software, LLC
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://timkellogg.me
 
 # SASS
 sass:
