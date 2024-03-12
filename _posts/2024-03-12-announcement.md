@@ -64,7 +64,7 @@ Mastodon is an open source social network, which makes it very easy to build on.
 social networks have been closing down access to their API lately, which makes development
 more difficult.
 
-Mastodon also doesn't have a timeline algorithm, so adding a new innovative algorithm is seemless
+Mastodon also doesn't have a timeline algorithm, so adding a new innovative algorithm is seamless
 and clean. For example, in Twitter/X, it's difficult to read your entire timeline and be sure
 you've found all posts, because their own algorithm is limiting the content available.
 
