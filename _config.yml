@@ -11,13 +11,13 @@ title: fossil
 # Description of the Site
 description: Social media optimized for you
 # URL of Image of the Site
-site-image: /assets/images/icon-dark.svg
+site-image: /assets/images/logo-mid.svg
 # Keywords of the Site
 site-keywords: Social Media, Mastodon, Fediverse, Time Management
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /assets/images/logo.png
 
-app-url: /under-construction
+app-url: https://app.fossil-social.com/
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/540123_1920.jpg
