@@ -68,7 +68,7 @@ Mastodon also doesn't have a timeline algorithm, so adding a new innovative algo
 and clean. For example, in Twitter/X, it's difficult to read your entire timeline and be sure
 you've found all posts, because their own algorithm is limiting the content available.
 
-Fossil might support other social networks in the future. [Tell us which ones your interested in.][sheets]
+Fossil might support other social networks in the future. [Tell us which ones you're interested in.][sheets]
 
 
  [gh]: https://github.com/tkellogg/fossil/
